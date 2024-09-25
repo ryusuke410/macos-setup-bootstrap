@@ -1,0 +1,10 @@
+---
+ansible_python_interpreter: /usr/bin/python3
+
+homebrew_installed_packages:
+  - git
+  - gh
+
+homebrew_cask_appdir: /Applications
+homebrew_cask_apps:
+  - git-credential-manager
